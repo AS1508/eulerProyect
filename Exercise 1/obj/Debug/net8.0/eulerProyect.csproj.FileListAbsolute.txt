@@ -1,0 +1,14 @@
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\bin\Debug\net8.0\eulerProyect.exe
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\bin\Debug\net8.0\eulerProyect.deps.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\bin\Debug\net8.0\eulerProyect.runtimeconfig.json
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\bin\Debug\net8.0\eulerProyect.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\bin\Debug\net8.0\eulerProyect.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\refint\eulerProyect.dll
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.pdb
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\eulerProyect.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Documentos\GitHub\eulerProyect\obj\Debug\net8.0\ref\eulerProyect.dll
